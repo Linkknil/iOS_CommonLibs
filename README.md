@@ -16,6 +16,7 @@ github中国订阅最多库： https://github.com/search?l=Objective-C&q=locatio
 
 2、iOS库分类
 
-![image](https://github.com/Linkknil/iOS_CommonLibs/screenshot/commomLib.png)
+![image](https://github.com/Linkknil/iOS_CommonLibs/tree/master/screenshot/commomLib.png)
+
 链接:
 http://github.ibireme.com/github/list/ios/
