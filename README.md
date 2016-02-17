@@ -20,3 +20,12 @@ github中国订阅最多库： https://github.com/search?l=Objective-C&q=locatio
 
 链接:
 http://github.ibireme.com/github/list/ios/
+
+3、Awesome 系列
+
+  常棒的iOS框架，库，教程，Xcode插件，组件列表。
+  
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [Awesome-Swift(1)](https://github.com/matteocrippa/awesome-swift)
+- [Awesome-Swift(2)](https://github.com/Wolg/awesome-swift)
+- [Awesome-watchOS](https://github.com/yenchenlin1994/awesome-watchos)
